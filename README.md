@@ -17,6 +17,12 @@
 - Able to build and test dataset
 - Able to predict which songs gonna become hit
 
+# Graph generated 
+![image](https://user-images.githubusercontent.com/56620618/221763841-65e995ed-b8e8-4b28-8c92-079d4b00accb.png)
+![image](https://user-images.githubusercontent.com/56620618/221763868-52147046-8d8f-4c23-89b7-480a0507f6cc.png)
+![image](https://user-images.githubusercontent.com/56620618/221763889-e458487b-a2e3-497f-836a-163e55795de9.png)
+
+
 # References 
 1. https://scikit-learn.org/stable/
 2. graphviz
